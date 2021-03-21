@@ -1,7 +1,7 @@
 using DataFrames
 
 host = "pursamydbcit.services.brown.edu"
-user = "daluthge"
+user = "YOUR_USERNAME"
 
 conn = open_mysql_connection(; host, user) # you will be prompted to enter your password
 
