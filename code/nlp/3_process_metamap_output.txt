@@ -1,0 +1,36 @@
+*** 3_process_metamap_output.jl ***
+
+# 3_process_metamap_output.jl
+
+using CSV
+using DataFrames
+
+metamap_df = CSV.File("metamap_dx_output.txt"; delim="|", header=0) |> DataFrame
+
+#print(metamap_df)
+
+# size
+println(size(metamap_df))
+
+# description
+println(describe(metamap_df))
+
+# first 5 rows
+println(first(metamap_df, 5))
+
+# show Column 4, 5, 6
+println(metamap_df[:, [:Column4, :Column5, :Column6]])
+println(metamap_df[:, [4,5,6]])
+
+# get counts by Column 5 (UMLS CUI)
+cui_df = combine(groupby(metamap_df, :Column5), :Column5 => length => :count)
+println(cui_df)
+
+# get counts by Column 6 (semantic type)
+sty_df = combine(groupby(metamap_df, :Column6), :Column6 => length => :count)
+println(sty_df)
+sort!(sty_df, :count, rev=true)
+println(sty_df)
+
+# save counts to file
+CSV.write("metamap_sty_counts.txt", sty_df)

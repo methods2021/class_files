@@ -1,0 +1,17 @@
+*** 2_extract_dx_csv.jl ***
+
+# 2_extract_dx_csv.jl
+
+using CSV
+
+count = 1
+
+output_file = open("metamap_dx_input.txt", "w")
+
+for line in CSV.File("data/ADMISSIONS.csv", header=1)
+#    println("$count|$(line.diagnosis).")
+    write(output_file, "$count|$(lowercase(line[17])).\n")
+    global count+=1
+end
+
+close(output_file)

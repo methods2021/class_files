@@ -1,0 +1,10 @@
+1|sepsis.
+2|hepatitis b.
+3|sepsis.
+4|humeral fracture.
+5|alcoholic hepatitis.
+6|stroke/tia.
+7| mitral regurgitation;coronary artery disease\coronary artery bypass graft with mvr  ? mitral valve replacement /sda.
+8|syncope;telemetry.
+9|right humerous fracture.
+10|renal failiure-syncope-hyperkalemia.

@@ -1,0 +1,50 @@
+text_000N_51636|MMI|7.40|Sepsis|C0243026|[dsyn]|["SEPSIS"-tx-3-"sepsis"-noun-0,"SEPSIS"-tx-1-"sepsis"-noun-0]|TX|27/6;2/6|
+text_000N_51636|MMI|7.40|Sepsis (Invertebrate)|C1090821|[euka]|["Sepsis"-tx-3-"sepsis"-noun-0,"Sepsis"-tx-1-"sepsis"-noun-0]|TX|27/6;2/6|
+text_000N_51636|MMI|7.40|Sepsis, CTCAE|C4552837|[fndg]|["Sepsis"-tx-3-"sepsis"-noun-0,"Sepsis"-tx-1-"sepsis"-noun-0]|TX|27/6;2/6|
+text_000N_51636|MMI|7.40|Septicemia|C0036690|[dsyn]|["Sepsis"-tx-3-"sepsis"-noun-0,"Sepsis"-tx-1-"sepsis"-noun-0]|TX|27/6;2/6|
+text_000N_51636|MMI|7.14|Family history of syncope|C2315811|[fndg]|["Syncope"-tx-10-"syncope"-noun-0,"Syncope"-tx-8-"syncope"-noun-0]|TX|278/7;214/7|
+text_000N_51636|MMI|7.14|Syncope|C0039070|[sosy]|["SYNCOPE"-tx-10-"syncope"-noun-0,"SYNCOPE"-tx-8-"syncope"-noun-0]|TX|278/7;214/7|
+text_000N_51636|MMI|7.14|Syncope (amphibian)|C3541349|[amph]|["Syncope"-tx-10-"syncope"-noun-0,"Syncope"-tx-8-"syncope"-noun-0]|TX|278/7;214/7|
+text_000N_51636|MMI|7.14|Syncope, CTCAE 5.0|C4554644|[fndg]|["Syncope"-tx-10-"syncope"-noun-0,"Syncope"-tx-8-"syncope"-noun-0]|TX|278/7;214/7|
+text_000N_51636|MMI|5.18|Telemetry|C0039451|[diap]|["Telemetry"-tx-8-"telemetry"-noun-0]|TX|222/9|
+text_000N_51636|MMI|3.75|Hepatitis B|C0019163|[dsyn]|["HEPATITIS B"-tx-2-"hepatitis b"-noun-0]|TX|12/11|
+text_000N_51636|MMI|3.75|Hepatitis, Alcoholic|C0019187|[dsyn]|["ALCOHOLIC HEPATITIS"-tx-5-"alcoholic hepatitis"-noun-0]|TX|57/19|
+text_000N_51636|MMI|3.75|Humeral Fractures|C0020162|[inpo]|["Humeral Fracture"-tx-4-"humeral fracture"-noun-0]|TX|37/16|
+text_000N_51636|MMI|3.75|Mitral Valve Insufficiency|C0026266|[patf]|["MITRAL REGURGITATION"-tx-7-"mitral regurgitation"-noun-0]|TX|95/20|
+text_000N_51636|MMI|3.63|Tacca leontopetaloides|C1054154|[plnt]|["tia"-tx-6-"tia"-noun-0]|TX|87/3|
+text_000N_51636|MMI|3.63|Transient Cerebral Ischemia|C0917805|[dsyn]|["TIA"-tx-6-"tia"-noun-0]|TX|87/3|
+text_000N_51636|MMI|3.63|Transient Ischemic Attack|C0007787|[dsyn]|["TIA"-tx-6-"tia"-noun-0]|TX|87/3|
+text_000N_51636|MMI|3.61|Fracture|C0016658|[inpo]|["FRACTURE"-tx-9-"fracture"-noun-0]|TX|250/8|
+text_000N_51636|MMI|3.60|Hyperkalemia|C0020461|[fndg]|["HYPERKALEMIA"-tx-10-"hyperkalemia"-noun-0]|TX|286/12|
+text_000N_51636|MMI|3.60|Hyperkalemia, CTCAE|C4552983|[fndg]|["Hyperkalemia"-tx-10-"hyperkalemia"-noun-0]|TX|286/12|
+text_000N_51636|MMI|3.58|Coronary Artery Bypass Surgery|C0010055|[topp]|["Coronary Artery Bypass Graft"-tx-7-"coronary artery bypass graft"-noun-0]|TX|116/15,156/12|
+text_000N_51636|MMI|3.58|coronary artery graft device|C1260596|[medd]|["coronary artery bypass graft"-tx-7-"coronary artery bypass graft"-noun-0]|TX|116/15,156/12|
+text_000N_51636|MMI|3.50|1+|C3816745|[fndg]|["1+"-tx-1-"1"-integer-0]|TX|0/1|
+text_000N_51636|MMI|3.50|1+ Score|C2827734|[fndg]|["1+"-tx-1-"1"-integer-0]|TX|0/1|
+text_000N_51636|MMI|3.50|1+ Score, WHO|C2981698|[fndg]|["1+"-tx-1-"1"-integer-0]|TX|0/1|
+text_000N_51636|MMI|3.50|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-3-"3"-integer-0]|TX|25/1|
+text_000N_51636|MMI|3.50|3+ Score|C2827736|[fndg]|["3+"-tx-3-"3"-integer-0]|TX|25/1|
+text_000N_51636|MMI|3.50|3+ Score, WHO|C2981702|[fndg]|["3+"-tx-3-"3"-integer-0]|TX|25/1|
+text_000N_51636|MMI|3.50|<3 (qualifier value)|C0439086|[qnco]|["<3"-tx-3-"3"-integer-0]|TX|25/1|
+text_000N_51636|MMI|3.50|Greater than one|C4280965|[qnco]|[">1"-tx-1-"1"-integer-0]|TX|0/1|
+text_000N_51636|MMI|3.48|+2|C0740116|[qnco]|["+2"-tx-2-"2"-integer-0]|TX|10/1|
+text_000N_51636|MMI|3.48|+5|C0728893|[qnco]|["+5"-tx-5-"5"-integer-0]|TX|55/1|
+text_000N_51636|MMI|3.48|2+|C3833492|[fndg]|["2+"-tx-2-"2"-integer-0]|TX|10/1|
+text_000N_51636|MMI|3.48|2+ Score|C2827735|[fndg]|["2+"-tx-2-"2"-integer-0]|TX|10/1|
+text_000N_51636|MMI|3.48|2+ Score, WHO|C2981700|[fndg]|["2+"-tx-2-"2"-integer-0]|TX|10/1|
+text_000N_51636|MMI|3.48|4+ Answer to question|C3838679|[fndg]|["4+"-tx-4-"4"-integer-0]|TX|35/1|
+text_000N_51636|MMI|3.48|>5|C0439084|[qnco]|[">5"-tx-5-"5"-integer-0]|TX|55/1|
+text_000N_51636|MMI|3.48|Cerebrovascular accident|C0038454|[dsyn]|["STROKE"-tx-6-"stroke"-noun-0]|TX|80/6|
+text_000N_51636|MMI|3.48|Family history of stroke|C1261367|[fndg]|["Stroke"-tx-6-"stroke"-noun-0]|TX|80/6|
+text_000N_51636|MMI|3.48|PSA Level Less than Five|C4084795|[fndg]|["<5"-tx-5-"5"-integer-0]|TX|55/1|
+text_000N_51636|MMI|3.48|PSA Level Less than Two|C4526661|[lbtr]|["<2"-tx-2-"2"-integer-0]|TX|10/1|
+text_000N_51636|MMI|3.48|Stroke, CTCAE|C4554100|[fndg]|["Stroke"-tx-6-"stroke"-noun-0]|TX|80/6|
+text_000N_51636|MMI|3.47|Right|C0205090|[spco]|["RIGHT"-tx-9-"right"-adj-0]|TX|235/5|
+text_000N_51636|MMI|3.47|Right sided|C0444532|[spco]|["Right"-tx-9-"right"-adj-0]|TX|235/5|
+text_000N_51636|MMI|3.46|10%|C3842590|[qnco]|["10%"-tx-10-"10"-integer-0]|TX|260/2|
+text_000N_51636|MMI|3.46|Kidney|C0022646|[bpoc]|["Renal"-tx-10-"renal"-adj-0]|TX|263/5|
+text_000N_51636|MMI|3.45|Replacement of mitral valve (procedure)|C0026268|[topp]|["MVR - Mitral valve replacement"-tx-7-"mvr mitral valve replacement"-noun-0]|TX|174/3,181/24|
+text_000N_51636|MMI|3.42|B4GALNT2 gene|C1428349|[gngm]|["Sda"-tx-7-"sda"-noun-0]|TX|207/3|
+text_000N_51636|MMI|3.42|Disease|C0012634|[dsyn]|["Disease"-tx-7-"disease"-noun-0]|TX|132/7|
+text_000N_51636|MMI|3.42|Sialodacryoadenitis of rat|C0276477|[dsyn]|["SDA"-tx-7-"sda"-noun-0]|TX|207/3|
+text_000N_51636|MMI|3.42|Strand Displacement Amplification|C1553165|[lbpr]|["SDA"-tx-7-"sda"-noun-0]|TX|207/3|
